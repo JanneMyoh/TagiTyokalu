@@ -1,0 +1,7 @@
+Alkuaineet#_id
+Funktionaalinenryhma#_ryhmaid
+Kaava#_kaavaid
+Vakio#_vakioid
+hapot#_id
+aine#_aineid
+yksikot#_yksikkoid
